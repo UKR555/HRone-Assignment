@@ -1,0 +1,10 @@
+.venv/
+.env
+mongodb_data/
+mongodb.zip
+mongodb_extracted/
+__pycache__/
+*.pyc
+.pytest_cache/
+test_api.py
+test_trend.py
