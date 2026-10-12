@@ -8,3 +8,4 @@ __pycache__/
 .pytest_cache/
 test_api.py
 test_trend.py
+PROBLEM_STATEMENT.docx
